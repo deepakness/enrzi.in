@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "enrzi.in",
+    "description": "",
+    "home_page_url": "https://deepakness.github.io/enrzi.in",
+    "feed_url": "https://deepakness.github.io/enrzi.in/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Deepak K"
+    },
+    "items": [
+        {
+            "id": "https://deepakness.github.io/enrzi.in/test.html",
+            "url": "https://deepakness.github.io/enrzi.in/test.html",
+            "title": "Test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "Deepak K"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-09T10:11:41+05:30",
+            "date_modified": "2021-01-09T10:11:41+05:30"
+        }
+    ]
+}
