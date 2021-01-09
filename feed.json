@@ -5,16 +5,16 @@
     "home_page_url": "https://deepakness.github.io/enrzi.in",
     "feed_url": "https://deepakness.github.io/enrzi.in/feed.json",
     "user_comment": "",
+    "icon": "https://deepakness.github.io/enrzi.in/media/website/enrzi.in-logo.svg",
     "author": {
         "name": "Deepak K"
     },
     "items": [
         {
-            "id": "https://deepakness.github.io/enrzi.in/test.html",
-            "url": "https://deepakness.github.io/enrzi.in/test.html",
+            "id": "https://deepakness.github.io/enrzi.in/test/",
+            "url": "https://deepakness.github.io/enrzi.in/test/",
             "title": "Test",
             "summary": "test",
-            "content_html": "<p>test</p>",
             "author": {
                 "name": "Deepak K"
             },
