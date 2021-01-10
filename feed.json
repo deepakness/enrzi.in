@@ -10,21 +10,6 @@
     },
     "items": [
         {
-            "id": "https://enrzi.in/this-is-a-new-sample-post/",
-            "url": "https://enrzi.in/this-is-a-new-sample-post/",
-            "title": "This is a new sample post",
-            "summary": "This is anew post.",
-            "image": "https://enrzi.in/media/posts/4/Electrical-Energy.jpg",
-            "author": {
-                "name": "Deepak"
-            },
-            "tags": [
-                   "Solar Energy"
-            ],
-            "date_published": "2021-01-10T16:38:24+05:30",
-            "date_modified": "2021-01-10T16:38:24+05:30"
-        },
-        {
             "id": "https://enrzi.in/tesla-coming-to-india-in-2021/",
             "url": "https://enrzi.in/tesla-coming-to-india-in-2021/",
             "title": "Tesla is Coming to India in 2021 [Year of Electric Cars]",

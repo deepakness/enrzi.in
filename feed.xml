@@ -3,30 +3,12 @@
     <title>enrzi.in</title>
     <link href="https://enrzi.in/feed.xml" rel="self" />
     <link href="https://enrzi.in" />
-    <updated>2021-01-10T16:38:24+05:30</updated>
+    <updated>2021-01-09T17:08:04+05:30</updated>
     <author>
         <name>Deepak</name>
     </author>
     <id>https://enrzi.in</id>
 
-    <entry>
-        <title>This is a new sample post</title>
-        <author>
-            <name>Deepak</name>
-        </author>
-        <link href="https://enrzi.in/this-is-a-new-sample-post/"/>
-        <id>https://enrzi.in/this-is-a-new-sample-post/</id>
-            <category term="Solar Energy"/>
-
-        <updated>2021-01-10T16:38:24+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://enrzi.in/media/posts/4/Electrical-Energy.jpg" alt="" />
-                    This is anew post.
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Tesla is Coming to India in 2021 [Year of Electric Cars]</title>
         <author>
