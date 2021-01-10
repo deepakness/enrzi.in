@@ -6,9 +6,24 @@
     "feed_url": "https://enrzi.in/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Deepak K"
+        "name": "Deepak"
     },
     "items": [
+        {
+            "id": "https://enrzi.in/this-is-a-new-sample-post/",
+            "url": "https://enrzi.in/this-is-a-new-sample-post/",
+            "title": "This is a new sample post",
+            "summary": "This is anew post.",
+            "image": "https://enrzi.in/media/posts/4/Electrical-Energy.jpg",
+            "author": {
+                "name": "Deepak"
+            },
+            "tags": [
+                   "Solar Energy"
+            ],
+            "date_published": "2021-01-10T16:38:24+05:30",
+            "date_modified": "2021-01-10T16:38:24+05:30"
+        },
         {
             "id": "https://enrzi.in/tesla-coming-to-india-in-2021/",
             "url": "https://enrzi.in/tesla-coming-to-india-in-2021/",
@@ -16,7 +31,7 @@
             "summary": "In the first half of 2021, you will see some amazing electric cars coming to India - Audi, Jaguar, and&hellip;",
             "image": "https://enrzi.in/media/posts/2/Tesla-Model-3-India.jpg",
             "author": {
-                "name": "Deepak K"
+                "name": "Deepak"
             },
             "tags": [
                    "Electric Cars"

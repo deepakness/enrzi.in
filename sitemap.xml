@@ -6,10 +6,13 @@
 </url>
 <url>
 <loc>https://enrzi.in/contact/</loc>
-<lastmod>2021-01-09T18:06:09+05:30</lastmod>
+<lastmod>2021-01-09T21:18:56+05:30</lastmod>
 </url>
 <url>
 <loc>https://enrzi.in/tags/electric-cars/</loc>
+</url>
+<url>
+<loc>https://enrzi.in/tags/solar-energy/</loc>
 </url>
 <url>
 <loc>https://enrzi.in/tesla-coming-to-india-in-2021/</loc>
@@ -21,6 +24,14 @@
 <image:image>
 <image:loc>https://enrzi.in/media\posts\2/Tesla-Model-3.jpg</image:loc>
 <image:title><![CDATA[Tesla Model 3]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://enrzi.in/this-is-a-new-sample-post/</loc>
+<lastmod>2021-01-10T16:38:24+05:30</lastmod>
+<image:image>
+<image:loc>https://enrzi.in/media\posts\4/Electrical-Energy.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 </urlset>
