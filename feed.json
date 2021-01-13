@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://enrzi.in/tesla-model-3-specs/",
+            "url": "https://enrzi.in/tesla-model-3-specs/",
+            "title": "Tesla Model 3 Specs - Everything You Need to Know About",
+            "summary": "Tesla Model 3 is a 4-door self-driving electric sedan car developed by Tesla. It has full self-driving hardware with regular&hellip;",
+            "image": "https://enrzi.in/media/posts/6/Tesla-Model-3-Specs.jpg",
+            "author": {
+                "name": "Deepak"
+            },
+            "tags": [
+                   "Electric Cars"
+            ],
+            "date_published": "2021-01-13T22:12:42+05:30",
+            "date_modified": "2021-01-13T22:13:07+05:30"
+        },
+        {
             "id": "https://enrzi.in/tesla-coming-to-india-in-2021/",
             "url": "https://enrzi.in/tesla-coming-to-india-in-2021/",
             "title": "Tesla is Coming to India in 2021 [Year of Electric Cars]",
