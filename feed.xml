@@ -3,12 +3,31 @@
     <title>enrzi.in</title>
     <link href="https://enrzi.in/feed.xml" rel="self" />
     <link href="https://enrzi.in" />
-    <updated>2021-01-13T22:13:07+05:30</updated>
+    <updated>2021-01-14T09:48:15+05:30</updated>
     <author>
         <name>Deepak</name>
     </author>
     <id>https://enrzi.in</id>
 
+    <entry>
+        <title>Tesla Supercharger - Everything You Need to Know About</title>
+        <author>
+            <name>Deepak</name>
+        </author>
+        <link href="https://enrzi.in/tesla-supercharger/"/>
+        <id>https://enrzi.in/tesla-supercharger/</id>
+            <category term="Electrical Energy"/>
+            <category term="Electric Cars"/>
+
+        <updated>2021-01-14T09:48:15+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enrzi.in/media/posts/7/Tesla-Supercharger.jpg" alt="Tesla Supercharger" />
+                    As the name suggests, Tesla Supercharger is a fast charging technology for Tesla electric cars. It’s much like a gas/petrol&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Tesla Model 3 Specs - Everything You Need to Know About</title>
         <author>
