@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://enrzi.in/tesla-resources/",
+            "url": "https://enrzi.in/tesla-resources/",
+            "title": "Tesla Resources - Collection of Great Articles about Tesla",
+            "summary": "Most of the news articles about Tesla do not cover much needed important details about them. So, I have decided&hellip;",
+            "image": "https://enrzi.in/media/posts/8/Tesla-Resources.jpg",
+            "author": {
+                "name": "Deepak"
+            },
+            "tags": [
+                   "Electric Cars"
+            ],
+            "date_published": "2021-02-08T20:48:19+05:30",
+            "date_modified": "2021-02-08T20:51:37+05:30"
+        },
+        {
             "id": "https://enrzi.in/tesla-supercharger/",
             "url": "https://enrzi.in/tesla-supercharger/",
             "title": "Tesla Supercharger - Everything You Need to Know About",

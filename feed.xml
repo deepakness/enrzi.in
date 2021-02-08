@@ -3,12 +3,30 @@
     <title>enrzi.in</title>
     <link href="https://enrzi.in/feed.xml" rel="self" />
     <link href="https://enrzi.in" />
-    <updated>2021-01-14T09:48:15+05:30</updated>
+    <updated>2021-02-08T20:51:37+05:30</updated>
     <author>
         <name>Deepak</name>
     </author>
     <id>https://enrzi.in</id>
 
+    <entry>
+        <title>Tesla Resources - Collection of Great Articles about Tesla</title>
+        <author>
+            <name>Deepak</name>
+        </author>
+        <link href="https://enrzi.in/tesla-resources/"/>
+        <id>https://enrzi.in/tesla-resources/</id>
+            <category term="Electric Cars"/>
+
+        <updated>2021-02-08T20:51:37+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enrzi.in/media/posts/8/Tesla-Resources.jpg" alt="Tesla Resources to Read" />
+                    Most of the news articles about Tesla do not cover much needed important details about them. So, I have decided&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Tesla Supercharger - Everything You Need to Know About</title>
         <author>
