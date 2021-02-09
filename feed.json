@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://enrzi.in/types-of-solar-panels/",
+            "url": "https://enrzi.in/types-of-solar-panels/",
+            "title": "Types of Solar Panels",
+            "summary": "Mainly, the solar panels can be divided into 3 categories: Each solar panel has different qualities and efficiencies. Monocrystalline is&hellip;",
+            "image": "https://enrzi.in/media/posts/9/Solar-Panel-Installation.jpg",
+            "author": {
+                "name": "Deepak"
+            },
+            "tags": [
+                   "Solar Energy"
+            ],
+            "date_published": "2021-02-09T09:29:39+05:30",
+            "date_modified": "2021-02-09T09:29:39+05:30"
+        },
+        {
             "id": "https://enrzi.in/tesla-resources/",
             "url": "https://enrzi.in/tesla-resources/",
             "title": "Tesla Resources - Collection of Great Articles about Tesla",

@@ -3,12 +3,30 @@
     <title>enrzi.in</title>
     <link href="https://enrzi.in/feed.xml" rel="self" />
     <link href="https://enrzi.in" />
-    <updated>2021-02-08T20:51:37+05:30</updated>
+    <updated>2021-02-09T09:29:39+05:30</updated>
     <author>
         <name>Deepak</name>
     </author>
     <id>https://enrzi.in</id>
 
+    <entry>
+        <title>Types of Solar Panels</title>
+        <author>
+            <name>Deepak</name>
+        </author>
+        <link href="https://enrzi.in/types-of-solar-panels/"/>
+        <id>https://enrzi.in/types-of-solar-panels/</id>
+            <category term="Solar Energy"/>
+
+        <updated>2021-02-09T09:29:39+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://enrzi.in/media/posts/9/Solar-Panel-Installation.jpg" alt="Types of Solar Panels" />
+                    Mainly, the solar panels can be divided into 3 categories: Each solar panel has different qualities and efficiencies. Monocrystalline is&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Tesla Resources - Collection of Great Articles about Tesla</title>
         <author>
